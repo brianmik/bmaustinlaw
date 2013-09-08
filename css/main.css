@@ -1,11 +1,31 @@
 /*****************************************************************************/
 /*
-/* Common
+/* ENRIQUE'S CUSTOM CSS
 /*
 /*****************************************************************************/
 
+/* - LAYOUT - */
+.l-nav-global {
 
+}
 
+/* - MODULES - */
+.nav-global {
+
+}
+
+.nav-item {
+  display: inline-block;
+  background-color: ;
+  padding: 0 1em 0 1em;
+  margin: .15em;
+  border: 2px solid #222;
+}
+
+.nav-link {
+  color: #222;
+  text-transform: uppercase;
+}
 
 /*****************************************************************************/
 /*
