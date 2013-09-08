@@ -1,0 +1,19 @@
+/* TEAM */
+Web Designer and Developer: Enrique Gonzalez
+Site: http://enriquesportfolio.com
+Twitter: @enriquegonzalez
+
+Website Owner and Content Creator: Brian Mikulencak
+Site: bmaustinlaw.com
+
+/* SITE */
+  Standards: HTML5, CSS3, JS
+  Components: Jekyll, Foundation 4, jQuery, Orbit, Reveal
+  Software: Sublime Text 2, Git
+
+/* THANKS */
+Name: Jekyll was made by Tom Preston-Werner and Nick Quaranto
+Site: jekyllrb.com
+
+Name: Foundation was made by ZURB, an interaction design and design strategy firm in Campbell, CA
+Site: foundation.zurb.com
