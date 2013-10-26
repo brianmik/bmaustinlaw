@@ -3,29 +3,103 @@
 /* ENRIQUE'S CUSTOM CSS
 /*
 /*****************************************************************************/
+/* - BASE - */
 
 /* - LAYOUT - */
-.l-nav-global {
-
-}
 
 /* - MODULES - */
-.nav-global {
+.title {
+  margin-bottom: 0;
+  font-family: Georgia, Serif;
+  clear: both;
+}
 
+.tagline {
+  margin-bottom: 0;
+}
+
+.nav-global {
+  float: right;
+  margin-top: 0;
 }
 
 .nav-item {
   display: inline-block;
-  background-color: ;
+  font-weight: bold;
+  margin: .5em 0 .5em 0;
   padding: 0 1em 0 1em;
-  margin: .15em;
-  border: 2px solid #222;
+  text-transform: uppercase;
+  background-color: #;
 }
 
 .nav-link {
   color: #222;
   text-transform: uppercase;
 }
+
+.practice-area {
+
+}
+
+.list-inside {
+  list-style-position: outside;
+  margin-left: 3%;
+}
+
+/* FOUNDATION OVERRIDES */
+/* SECTION - ACCORDIONS */
+.section-container.accordion {
+  border-top: 0;
+}
+
+.section-container.accordion>section>.title {
+  background-color: #333;
+  border: none;
+}
+
+.section-container.accordion>section>[data-section-title] a, .section-container.accordion>section>.title a {
+  color: #fff;
+  font-weight: normal;
+  white-space: normal;
+}
+
+.section-container.accordion>section>[data-section-title] a:hover, .section-container.accordion>section>.title a:hover {
+ background-color: #777;
+}
+
+/* - MEDIA QUERIES - */
+
+/* We use this media query to add styles to any device that supports media queries */
+@media only screen { }
+
+/* Used to alter styles for screens at least 768px wide. This is where the grid changes. */
+@media only screen and (min-width: 768px) {}
+
+/* Used to alter styles for screens at most 768px wide. This is where the grid changes. */
+@media only screen and (max-width: 768px) {
+  .nav-global {
+    float: none;
+    margin-top: 5%;
+  }
+
+  .nav-item {
+    display: block;
+  }
+}
+
+/* Used to alter styles for screens at least 1280px wide. */
+@media only screen and (min-width: 1280px) {}
+
+/* Used to alter styles for screens at least 1440px wide. */
+@media only screen and (min-width: 1440px) {}
+
+/* Apply styles to screens in landscape orientation */
+@media only screen and (orientation: landscape) {}
+
+/* Apply styles to screens in portrait orientation */
+@media only screen and (orientation: portrait) {}
+
+
 
 /*****************************************************************************/
 /*

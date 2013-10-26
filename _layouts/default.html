@@ -13,32 +13,36 @@
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">
 
-        <!-- Custom CSS -->
+        <!-- ZURB Foundation 4 -->
+        <link rel="stylesheet" href="/css/foundation.min.css">
+        <script src="/js/vendor/custom.modernizr.js"></script>
+
+         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
 
-        <!-- ZURB Foundation 4 -->
-        <link rel="stylesheet" href="/css/foundation.css">
-        <script src="/js/vendor/custom.modernizr.js"></script>
+        <!-- Google Fonts-->
+        <link href='http://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
 
     </head>
     <body>
+
         <div class="row">
           <div class="large-12 columns">
-            <div class="header">
-              <h1 class="title"><a class="title-link" href="/">{{ site.name }}</a></h1>
-              <h2>Transactional Law, Austin, TX.</h2>
-              <nav class="l-nav-global">
-                <ul class="nav-global">
-                  <li class="nav-item"><a class="nav-link" href="/about">About</a></li>
-                  <li class="nav-item"><a class="nav-link" href="/practice-areas">Practice Areas</a></li>
-                  <li class="nav-item"><a class="nav-link" href="/publications">Publications</a></li>
-                  <li class="nav-item"><a class="nav-link" href="/blog">Blog</a></li>
-                  <li class="nav-item"><a class="nav-link" href="/contact">Contact</a></li>
-                </ul>
-              </nav>
-            </div>
+            <header class="header">
+              <h1 class="title"><a class="title-link" href="/index.html">{{ site.name }}</a></h1>
+            </header>
+             <h2 class="tagline">Business transaction and tax counseling for start-up and growth companies.</h2>
+            <nav>
+              <ul class="nav-global">
+                <li class="nav-item"><a href="/about.html">About</a></li>
+                <li class="nav-item"><a href="/publications.html">Publications</a></li>
+                <!-- <li class="nav-item"><a href="/blog">Blog</a></li> -->
+                <li class="nav-item"><a href="/index.html">Contact</a></li>
+              </ul>
+            </nav>
           </div>
         </div>
+
 
           {{ content }}
 
