@@ -7,7 +7,7 @@
 body {
 }
 
-h1, h3, {
+h1, h3 {
   font-family: Georgia, Serif;
 }
 
@@ -58,7 +58,7 @@ p {
   padding-top: 3em;
 }
 
-.site-name{
+.site-name {
   margin-bottom: 0;
   color: #333;
 }
