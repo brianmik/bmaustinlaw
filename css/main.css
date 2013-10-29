@@ -135,7 +135,7 @@ p {
 }
 
 .section-container.accordion>section>.title {
-  background-color: #aaa;
+  background-color: #777;
   border: none;
 }
 
@@ -146,7 +146,15 @@ p {
 }
 
 .section-container.accordion>section>[data-section-title] a:hover, .section-container.accordion>section>.title a:hover {
- background-color: #777;
+ background-color: #2795b6;
+}
+
+.section-container.accordion>section.active>.title {
+  background-color: #2795b6;
+}
+
+.section-container.accordion>section.active>.title a {
+  color: #fff;
 }
 
 
