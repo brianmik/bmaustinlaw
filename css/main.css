@@ -7,7 +7,7 @@
 body {
 }
 
-h1, h3 {
+h1 {
   font-family: Georgia, Serif;
 }
 
@@ -26,6 +26,14 @@ p {
 }
 
 /* - MODULES - */
+
+.pub-title {
+  font-family: Georgia, Serif;
+}
+
+.hide {
+  display: none;
+}
 
 .small{
   font-size: .85em;
@@ -128,7 +136,17 @@ p {
   padding: 0;
 }
 
+.space-top {
+  margin-top: 5%;
+}
+
 /* FOUNDATION OVERRIDES */
+/*  FORM */
+
+textarea {
+  height: auto;
+}
+
 /* SECTION - ACCORDIONS */
 .section-container.accordion {
   border-top: 0;
