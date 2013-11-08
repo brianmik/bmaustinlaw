@@ -28,6 +28,13 @@ p {
 
 /* - MODULES - */
 
+.rotate-clockwise-90 {
+display: inline-block;
+transform: rotate(90deg);
+-ms-transform: rotate(90deg); /* IE 9 */
+-webkit-transform: rotate(90deg); /* Safari and Chrome */
+}
+
 .pub-title {
   font-family: Georgia, Serif;
 }
@@ -143,6 +150,13 @@ p {
 
 .space-top {
   margin-top: 5%;
+}
+
+/*  BORDERS   */
+
+.border-top {
+  border-top: 2px dotted #999;
+  padding-top: 2%;
 }
 
 /* FOUNDATION OVERRIDES */
