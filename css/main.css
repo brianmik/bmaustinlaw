@@ -203,11 +203,7 @@ textarea {
 @media only screen { }
 
 /* Used to alter styles for screens at most 768px wide. This is where the grid changes. */
-@media all and (max-width: 480px) {
-  div.switch label.robot {
-    display: inline-block;
-  }
-}
+@media all and (max-width: 480px) {}
 
 /* Used to alter styles for screens at least 768px wide. This is where the grid changes. */
 @media only screen and (min-width: 768px) {}
