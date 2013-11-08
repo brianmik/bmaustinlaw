@@ -26,6 +26,8 @@ p {
   font-size: 1.1em;
 }
 
+
+
 /* - MODULES - */
 
 .rotate-clockwise-90 {
@@ -202,7 +204,7 @@ textarea {
 
 /* Used to alter styles for screens at most 768px wide. This is where the grid changes. */
 @media all and (max-width: 480px) {
-  .form-switch-small {
+  label.form-switch-small {
     width: 100%;
   }
 }
