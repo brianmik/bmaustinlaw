@@ -204,7 +204,7 @@ textarea {
 
 /* Used to alter styles for screens at most 768px wide. This is where the grid changes. */
 @media all and (max-width: 480px) {
-  label.form-switch-small {
+  div.switch label {
     width: 100%;
   }
 }
