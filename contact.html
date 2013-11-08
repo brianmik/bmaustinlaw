@@ -15,21 +15,21 @@ title: Brian Mikulencak Business Transactions and Tax Attorney - Contact Informa
       				<!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
       				<input type='hidden' name='redirect_to' value='http://bmaustinlaw.com/thank-you.html' />
       				<!-- all your input fields here.... -->
-              <label>First Name: <small>required</small></label>
+              <label>First Name: <small class="red">required</small></label>
       				<input name='firstname' type='text' placeholder='Jane' required/>
-              <label>Last Name: <small>required</small></label>
+              <label>Last Name: <small class="red">required</small></label>
       				<input name='lastname' type='text' placeholder='Doe' required/>
-              <label>Company Name: <small>required</small></label>
+              <label>Company Name: <small class="red">required</small></label>
       				<input name='companyname' type='text' placeholder='Google' />
-              <label>E-mail: <small>required</small></label>
+              <label>E-mail: <small class="red">required</small></label>
       				<input type="email" name="email" placeholder='jdoe@example.com' required/>
-              <label>Telephone: <small>required</small></label>
+              <label>Telephone: <small class="red">required</small></label>
       				<input type="tel" name="usrtel" placeholder='737-555-5555' required>
-              <label>Message: <small>required</small></label>
+              <label>Message: <small class="red">required</small></label>
       				<textarea name="message" rows="10" placeholder='Brief description of project or legal matter.' required></textarea>
               <label for="agreed">
                 <input type="checkbox" id="agreed" style="display: none;" required>
-                <span class="custom checkbox"></span> I understand that no attorney-client relationship is formed by sending this message.
+                <span class="custom checkbox"></span> I understand that no attorney-client relationship is formed by sending this message. <small class="red">required</small>
               </label>
               <!-- Using class options -->
       				<p class="space-top">Flip the switch to prove you're human.</p>
