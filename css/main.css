@@ -204,7 +204,7 @@ textarea {
 
 /* Used to alter styles for screens at most 768px wide. This is where the grid changes. */
 @media all and (max-width: 480px) {
-  div.switch label {
+  div.switch label.robot {
     width: 100%;
   }
 }
