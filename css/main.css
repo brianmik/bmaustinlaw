@@ -138,6 +138,10 @@ transform: rotate(90deg);
 }
 
 /*  TYPOGRAPHY  */
+.large {
+  font-size: 1.25em;
+}
+
 .is-italic {
   font-style: italic;
 }
