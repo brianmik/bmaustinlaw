@@ -12,10 +12,13 @@ h1 {
   font-family: Georgia, Serif;
 }
 
-/* - LAYOUT - */
 header {
   clear: both;
   padding: 1.5em 0 1.5em 0;
+}
+
+label {
+  font-size: 1.2em;
 }
 
 nav {
@@ -26,45 +29,14 @@ p {
   font-size: 1.1em;
 }
 
-label {
-  font-size: 1.2em;
-}
-
-/* - MODULES - */
-
-.rotate-clockwise-90 {
-display: inline-block;
-transform: rotate(90deg);
--ms-transform: rotate(90deg); /* IE 9 */
--webkit-transform: rotate(90deg); /* Safari and Chrome */
-}
-
-.pub-title {
-  font-family: Georgia, Serif;
-}
-
-.hide {
-  display: none;
-}
-
-.small{
-  font-size: .85em;
-}
-
-.quotes:before {
-  content: open-quote;
-}
-
-.quotes:after {
-  content: close-quote;
+/* - LAYOUT - */
+#bottom {
+  background-color: #fff;
+  padding-top: 3em;
 }
 
 #menu {
   background-color: #fff;
-}
-
-#top {
-  background-color: #333;
 }
 
 #middle {
@@ -73,19 +45,18 @@ transform: rotate(90deg);
   padding-top: 1em;
 }
 
-#bottom {
-  background-color: #fff;
-  padding-top: 3em;
+#top {
+  background-color: #333;
 }
 
-.site-name {
-  margin-bottom: 0;
-  color: #333;
+/* - MODULES - */
+.hide {
+  display: none;
 }
 
-.tagline {
-  color: #fff;
-  font-weight: normal;
+.list-inside {
+  list-style-position: outside;
+  margin-left: 3%;
 }
 
 .nav-global {
@@ -100,10 +71,9 @@ transform: rotate(90deg);
   padding: .5em;
   text-transform: uppercase;
   border-bottom: 4px solid #fff;
-
 }
 
-.active {
+.nav-item.active {
   border-bottom: 4px solid red;
 }
 
@@ -111,17 +81,22 @@ transform: rotate(90deg);
   border-bottom: 4px solid red;
 }
 
-.nav-link:hover {
-
+.pub-title {
+  font-family: Georgia, Serif;
 }
 
-.practice-area {
-
+.site-name {
+  margin-bottom: 0;
+  color: #333;
 }
 
-.list-inside {
-  list-style-position: outside;
-  margin-left: 3%;
+.small{
+  font-size: .85em;
+}
+
+.tagline {
+  color: #fff;
+  font-weight: normal;
 }
 
 /*  COLORS  */
@@ -138,12 +113,12 @@ transform: rotate(90deg);
 }
 
 /*  TYPOGRAPHY  */
-.large {
-  font-size: 1.25em;
-}
-
 .is-italic {
   font-style: italic;
+}
+
+.large {
+  font-size: 1.25em;
 }
 
 .uppercase {
@@ -160,16 +135,8 @@ transform: rotate(90deg);
   margin-top: 5%;
 }
 
-/*  BORDERS   */
-
-.border-top {
-  border-top: 2px dotted #999;
-  padding-top: 2%;
-}
-
 /* FOUNDATION OVERRIDES */
 /*  FORM */
-
 textarea {
   height: auto;
 }
