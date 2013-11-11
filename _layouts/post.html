@@ -2,13 +2,11 @@
 layout: template-blog
 ---
 
-
-
-
+<div id="middle">
   <div class="row">
     <div class="large-12 columns">
       <h3 class="uppercase space-none">{{ page.title }}</h3>
-      <p class="meta">{{ page.date | date_to_string }}</p>
+      <p class="meta">{{ page.date | date: "%A, %B %d, %Y"}}</p>
     </div>
   </div>
 
@@ -19,6 +17,8 @@ layout: template-blog
       </div>
     </div>
   </div>
+</div>
+
 
 
 

@@ -59,6 +59,10 @@ p {
   margin-left: 3%;
 }
 
+.list-none {
+  list-style: none;
+}
+
 .nav-global {
   margin-top: 0;
 }
