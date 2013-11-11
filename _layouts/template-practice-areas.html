@@ -47,7 +47,7 @@
                 <li class="nav-item"><a class="nav-link" href="/index.html">home</a></li>
                 <li class="nav-item active"><a class="nav-link" href="#">Practice Areas</a></li>
                 <li class="nav-item"><a class="nav-link" href="/publications.html">Publications</a></li>
-                <!-- <li class="nav-item"><a class="nav-link" href="/blog">Blog</a></li> -->
+                <li class="nav-item"><a class="nav-link" href="/blog">Blog</a></li>
                 <li class="nav-item"><a class="nav-link" href="/contact.html"><i class="fi-at-sign red"></i>Contact</a></li>
               </ul>
             </nav>
@@ -55,29 +55,11 @@
         </div>
       </div>
 
-      <div id="top">
-        <div class="row">
-          <div class="large-12 columns">
-            <header itemscope itemtype="http://schema.org/Organization">
-              <h1 class="site-name"><a class="title-link" href="/index.html">{{ site.h1 }}</a></h1>
-              <h2 class="tagline" itemprop="description">{{ site.tagline }}</h2>
-            </header>
-          </div>
-        </div>
-      </div>
-
+          {{ site.header }}
 
           {{ content }}
-      <div id="bottom">
-        <div class="row">
-          <div class="large-12 columns">
-            <div class="footer">
-              <p>&copy; Brian Mikulencak. All rights reserved</p>
-            </div>
-          </div>
-        </div>
-      </div>
 
+          {{ site.footer }}
 
   <script>
   document.write('<script src=' +
