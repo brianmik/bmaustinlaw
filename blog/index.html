@@ -1,14 +1,20 @@
 ---
-layout: post
-title:  "Blog"
-date:   2013-10-28 21:00:00
+layout: template-blog
+title:  Blog
 ---
 
-<ul>
-  {% for post in site.posts %}
-    <li>hello
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <p>{{ post.excerpt }}</p>
-    </li>
-  {% endfor %}
-</ul>
+  <div id="middle">
+  <div class="row">
+    <div class="large-12 columns">
+      <h3 class="uppercase">{{ page.title }}</h3>
+        <ul>
+          {% for post in site.posts %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            <p>{{ post.excerpt }}</p>
+          </li>
+          {% endfor %}
+        </ul>
+    </div>
+  </div>
+</div>
