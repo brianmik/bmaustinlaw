@@ -2,22 +2,19 @@
 layout: template-blog
 ---
 
+<main>
 <div id="middle">
   <div class="row">
     <div class="large-12 columns">
-      <h3 class="uppercase space-none">{{ page.title }}</h3>
+    <article>
+      <h1 class="post-title uppercase space-none">{{ page.title }}</h3>
       <p class="meta">{{ page.date | date: "%A, %B %d, %Y"}}</p>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="large-12 columns">
-      <div class="post">
         {{ content }}
-      </div>
+    </article>
     </div>
   </div>
 </div>
+</main>
 
 
 

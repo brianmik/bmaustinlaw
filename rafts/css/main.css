@@ -1,0 +1,350 @@
+/*****************************************************************************/
+/*
+/* ENRIQUE'S CUSTOM CSS
+/* For Brian Mikulencak Business Transactions and Tax Attorney Website
+/*
+/*****************************************************************************/
+/* - BASE - */
+body {
+}
+
+h1 {
+  font-family: Georgia, Serif;
+}
+
+header {
+  clear: both;
+  padding: 1.5em 0 1.5em 0;
+}
+
+label {
+  font-size: 1.2em;
+}
+
+nav {
+  float: right;
+}
+
+p {
+  font-size: 1.1em;
+}
+
+/* - LAYOUT - */
+#bottom {
+  background-color: #fff;
+  padding-top: 3em;
+}
+
+#menu {
+  background-color: #fff;
+}
+
+#middle {
+  background-color: #fff;
+  margin: 0;
+  padding-top: 1em;
+}
+
+#top {
+  background-color: #333;
+}
+
+/* - MODULES - */
+.hide {
+  display: none;
+}
+
+.list-inside {
+  list-style-position: outside;
+  margin-left: 3%;
+}
+
+.list-none {
+  list-style: none;
+}
+
+.nav-global {
+  margin-top: 0;
+}
+
+.nav-item {
+  display: inline-block;
+  font-size: 1em;
+  letter-spacing: .175em;
+  margin: 1em 1em 0 0;
+  padding: .5em;
+  text-transform: uppercase;
+  border-bottom: 4px solid #fff;
+}
+
+.nav-item.active {
+  border-bottom: 4px solid red;
+}
+
+.nav-item:hover {
+  border-bottom: 4px solid red;
+}
+
+.site-name {
+  margin-bottom: 0;
+  color: #333;
+}
+
+.small{
+  font-size: .85em;
+}
+
+.tagline {
+  color: #fff;
+  font-weight: normal;
+}
+
+/*  COLORS  */
+.bg-dark {
+  background-color: rgba(51, 51, 51, 0.1)
+}
+
+.honeydew {
+  color:  HoneyDew;
+}
+
+.red {
+  color: red;
+}
+
+/*  TYPOGRAPHY  */
+.is-italic {
+  font-style: italic;
+}
+
+.large {
+  font-size: 1.25em;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+/*  SPACING   */
+.space-none {
+  margin: 0;
+  padding: 0;
+}
+
+.space-top {
+  margin-top: 5%;
+}
+
+/* FOUNDATION OVERRIDES */
+/*  FORM */
+textarea {
+  height: auto;
+}
+
+/* SECTION - ACCORDIONS */
+.section-container.accordion {
+  border-top: 0;
+}
+
+.section-container.accordion>section>.title {
+  background-color: #777;
+  border: none;
+}
+
+.section-container.accordion>section>[data-section-title] a, .section-container.accordion>section>.title a {
+  color: #fff;
+  font-weight: normal;
+  white-space: normal;
+}
+
+.section-container.accordion>section>[data-section-title] a:hover, .section-container.accordion>section>.title a:hover {
+ background-color: #2795b6;
+}
+
+.section-container.accordion>section.active>.title {
+  background-color: #2795b6;
+}
+
+.section-container.accordion>section.active>.title a {
+  color: #fff;
+}
+
+
+/* - MEDIA QUERIES - */
+
+/* We use this media query to add styles to any device that supports media queries */
+@media only screen { }
+
+/* Used to alter styles for screens at most 768px wide. This is where the grid changes. */
+@media all and (max-width: 480px) {}
+
+/* Used to alter styles for screens at least 768px wide. This is where the grid changes. */
+@media only screen and (min-width: 768px) {}
+
+/* Used to alter styles for screens at most 768px wide. This is where the grid changes. */
+@media only screen and (max-width: 768px) {
+  nav {
+    float: none;
+  }
+
+  .nav-global {
+    margin-top: 5%;
+  }
+
+  .nav-item {
+    display: block;
+  }
+}
+
+/* Used to alter styles for screens at least 1280px wide. */
+@media only screen and (min-width: 1280px) {}
+
+/* Used to alter styles for screens at least 1440px wide. */
+@media only screen and (min-width: 1440px) {}
+
+/* Apply styles to screens in landscape orientation */
+@media only screen and (orientation: landscape) {}
+
+/* Apply styles to screens in portrait orientation */
+@media only screen and (orientation: portrait) {}
+
+
+
+/*****************************************************************************/
+/*
+/* ALL JEKYLL DEFAULT CSS
+/*
+/*****************************************************************************/
+/*****************************************************************************/
+/*
+/* Home
+/*
+/*****************************************************************************/
+/*ul.posts {
+  list-style-type: none;
+  margin-bottom: 2em;
+}
+
+ul.posts li {
+  line-height: 1.75em;
+}
+
+ul.posts span {
+  color: #aaa;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+}
+*/
+/*****************************************************************************/
+/*
+/* Site
+/*
+/*****************************************************************************/
+
+/*
+.site {  font-size: 115%;
+  text-align: justify;
+  width: 42em;
+  margin: 3em auto 2em;
+  line-height: 1.5em;
+
+}
+
+.site .header a {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.site .header h1.title {
+  display: inline-block;
+  margin-bottom: 2em;
+}
+
+.site .header h1.title a {
+  color: #a00;
+}
+
+.site .header h1.title a:hover {
+  color: #000;
+}
+
+.site .header a.extra {
+  color: #aaa;
+  margin-left: 1em;
+}
+
+.site .header a.extra:hover {
+  color: #000;
+}
+
+.site .meta {
+  color: #aaa;
+}
+
+.site .footer {
+  font-size: 80%;
+  color: #666;
+  border-top: 4px solid #eee;
+  margin-top: 2em;
+  overflow: hidden;
+}
+
+.site .footer .contact {
+  float: left;
+  margin-right: 3em;
+}
+
+.site .footer .contact a {
+  color: #8085C1;
+}
+
+.site .footer .rss {
+  margin-top: 1.1em;
+  margin-right: -.2em;
+  float: right;
+}
+
+.site .footer .rss img {
+  border: 0;
+}
+
+*/
+
+/*****************************************************************************/
+/*
+/* Posts
+/*
+/*****************************************************************************/
+
+/* standard
+.post pre {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .4em;
+}
+
+.post ul, .post ol {
+  margin-left: 1.35em;
+}
+
+.post code {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .2em;
+}
+
+.post pre code {
+  border: none;
+}
+
+/* terminal
+.post pre.terminal {
+  border: 1px solid #000;
+  background-color: #333;
+  color: #FFF;
+}
+
+.post pre.terminal code {
+  background-color: #333;
+}
+*/

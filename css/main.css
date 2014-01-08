@@ -5,12 +5,6 @@
 /*
 /*****************************************************************************/
 /* - BASE - */
-body {
-}
-
-h1 {
-  font-family: Georgia, Serif;
-}
 
 header {
   clear: both;
@@ -85,9 +79,14 @@ p {
   border-bottom: 4px solid red;
 }
 
+.post-title, .practice, .publication, .thanks {
+  font-size: 1.6875em;
+}
+
 .site-name {
-  margin-bottom: 0;
   color: #333;
+  font-family: Georgia, Serif;
+  margin-bottom: 0;
 }
 
 .small{
@@ -96,7 +95,9 @@ p {
 
 .tagline {
   color: #fff;
+  font-size: 1.6875em;
   font-weight: normal;
+  line-height: 1.2125em;
 }
 
 /*  COLORS  */
