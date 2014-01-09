@@ -5,7 +5,8 @@ date:   2014-01-09 20:25:00
 categories: real estate tax
 ---
 
-Earlier this month, the IRS ruled on Tax Treatment of Receipts from National Mortgage Settlement Fund.
+Earlier this month, the IRS ruled on Tax Treatment of Receipts from National Mortgage Settlement Fund.  
+
 In 2012, the five largest bank mortgage servicers entered into a settlement agreement with the US government and the attorneys
 general of 49 states and the District of Columbia regarding potential abuses in mortgage loan servicing and foreclosure proceedings.
 (Oklahoma did not participate in this settlement.) As part of this settlement, the settling bank mortgage servicers funded a $1.5 billion
