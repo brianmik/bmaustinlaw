@@ -7,7 +7,9 @@ layout: template-blog
   <div class="row">
     <div class="large-12 columns">
     <article>
-      <h1 class="post-title uppercase space-none">{{ page.title }}</h3>
+      <header class="space-none">
+        <h1 class="post-title uppercase space-none">{{ page.title }}</h1>
+      </header>
       <p class="meta">{{ page.date | date: "%A, %B %d, %Y"}}</p>
         {{ content }}
     </article>
