@@ -15,14 +15,14 @@ January 1, 2008 and on or before December 31, 2011.
 
 This month, the IRS issued guidance on the tax treatment of amounts received from the National Mortgage Settlement fund.  
 
-#### Foreclosure of a Principal Residence  
+## Foreclosure of a Principal Residence  
 
 In Revenue Ruling 2014-2, the IRS ruled that beneficiary recipients of the National Mortgage Settlement fund do not realize taxable income in the typical case
 where the foreclosed property was a principal residence and the distressed borrower has an overall loss on the property (after considering
 the fund receipts). Essentially, the IRS treats the payment as a reduction of the (nondeductible) loss on the property, rather than an
 increase in debt forgiveness.  
 
-#### Multiple-Use Properties  
+## Multiple-Use Properties  
 
 The IRS provided taxpayer-friendly guidance with respect to foreclosed properties consisting of both a principal-residence unit and
 investment units. In these cases, the distressed debtor allocates amounts received from the National Mortgage Settlement fund to the
