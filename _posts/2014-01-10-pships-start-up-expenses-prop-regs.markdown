@@ -19,7 +19,7 @@ in light of existing regulations that require the continued amortization of Sect
 The [proposed regulations][prop regs cite] liken the amortization of start-up and organizational expenses to Section 197 intangibles and
 explicitly prohibit their acceleration following a partnership "technical termination." These regulations will be effective as of
 December 9, 2013, once they are finalized. However, partnerships that have taken a contrary position with respect to "technical terminations"
-preceding that date should consider amending open returns, as the IRS is likely to these rules to be a clarification of existing law,
+preceding that date should consider amending open returns, as the IRS likely views these rules as a clarification of existing law,
 rather than a change.  
 
 
