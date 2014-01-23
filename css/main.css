@@ -151,6 +151,14 @@ textarea {
   height: auto;
 }
 
+.vcard {
+  border: none;
+  font-size: 1.25em;
+  text-align: right;
+  width: 100%;
+}
+
+
 /* SECTION - ACCORDIONS */
 .section-container.accordion {
   border-top: 0;
