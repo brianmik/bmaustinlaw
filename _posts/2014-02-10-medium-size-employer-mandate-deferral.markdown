@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Treasury Department Further Delays Employer Healthcare Mandate for Medium-Sized Employers"
+title:  "Treasury Department Further Delays Employer Healthcare Mandate for &rdquo;Medium-Sized&ldquo; Employers"
 date:   2014-02-10 01:00:00
 categories: employee healthcare
 ---
