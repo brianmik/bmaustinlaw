@@ -5,7 +5,7 @@ date:   2014-02-10 18:00:00
 categories: employee healthcare
 ---
 
-Yesterday, the Treasury Department [announced] [announcement] that it and the IRS have issued final regulations under the Affordable Care Act 
+Yesterday, the Treasury Department [announced][announcement] that it and the IRS have issued final regulations under the Affordable Care Act 
 (ACA). As described by the Treasury, these final regulations delay until January 1, 2016 the requirement that "medium-sized" employers provide 
 qualifying healthcare insurance to certain employees, or otherwise incur financial penalties.  
 
