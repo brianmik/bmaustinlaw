@@ -16,4 +16,4 @@ reporting requirements that take effect next year. Affected employers should con
 the ACA, including the detailed rules for defining a "full-time" employee for these purposes.
 
 
-[accouncement]: http://www.treasury.gov/press-center/press-releases/Pages/jl2290.aspx
+[announcement]: http://www.treasury.gov/press-center/press-releases/Pages/jl2290.aspx
