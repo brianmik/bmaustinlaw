@@ -135,6 +135,10 @@ p {
   text-transform: uppercase;
 }
 
+.contact-us__agreement {
+  font-size: .75em;
+}
+
 /*  SPACING   */
 .space-none {
   margin: 0;
