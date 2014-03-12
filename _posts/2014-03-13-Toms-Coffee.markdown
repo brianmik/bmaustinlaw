@@ -7,7 +7,7 @@ categories: social enterprise
 
 Here at Austin's annual SXSM festival, TOMS founder Blake Mycoskie [announced][AAS cite] that the company is getting into the coffee business. 
 TOMS is famous for its "get-one-give-one" model of donating a pair of shoes to a needy child for each pair purchased. Now, the company 
-plans to start selling coffee, and for each bag sold donate a fixed amount of free drinking water to a person where drinking water is scarce.  
+plans to start selling coffee, and for each bag sold donate a fixed amount of free drinking water to a person where drinking water is scarce. 
 While the "get-one-give-one" model has been adopted by other social enterprise companies and established companies alike, the extension to a 
 product like coffee may be different from trendy shoes in one material respect -- the general high-end coffee market incorporated a social benefit 
 element years ago with "fair trade" practices and certification. So, the question seems to be, will "get-one-give-one" social benefits 
