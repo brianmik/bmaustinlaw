@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Service-Based Compensation: LLC and Partnership Profits Interests"
+title:  "Equity-Based Compensation: LLC and Partnership Profits Interests"
 date:   2014-06-09 18:00:00
 categories: partnership tax
 ---
