@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Can Your Nonprofit Start-Up Take Advantage of the New IRS Streamlined Application"
+date:   2014-07-21 18:00:00
+categories: nonprofits
+---
+
+The IRS has finally established a long-awaited streamlined tax-exemption process for certain nonprofits: an online-only Form 1023-EZ. In [Revenue 
+Procedure 2014-40,][Rev Proc link] the agency establishes eligibility requirements and describes the cost and procedure for obtaining exemption 
+under this process. Before applying, however, nonprofit start-ups should consider whether they are eligible for this advantageous process:  
+
+## Does the organization have too much revenue? Too many assets?  
+
+The IRS limits the 1023-EZ process to organizations that have had annual revenue of $50,000 or less during all of the last three years. More restrictive, an 
+organization must also not anticipate revenues in excess of $50,000 during the current or following two years. Separately, organizations must have assets worth 
+less than $250,000 at the time of application. (For these purposes, the organization may make a good faith estimate of the value of its its assets.)  
+
+
+## Is the entity a US entity?  
+
+Foreign organizations are not eligible to file a 1023-EZ. For these purposes, it's not important where the organization intends to operate, but instead 
+the organization must be organized in a US state (or US territory or possession) and must have a mailing address in the US (or in a US territory or possession).  
+
+## Is the organization a successor to a for-profit entity?  
+
+Often, a nonprofit organization comes into existence upon the termination or liquidation of a for-profit entity. These nonprofits are not eligible for this 
+new, streamlined process of obtaining tax exemption.  
+
+## Does the organization fall under one of the specifically disallowed categories?  
+
+Many types of nonprofits are required to file special schedules to their exemption application with additional and detailed information. Many of these types of 
+organizations, including churches, schools, colleges, and universities, hospitals, HMOs, and other types of organizations must continue to file the long-form 
+application.  
+
+Additionally, the IRS guidance identifies several other types of organizations and activities that preclude eligibility to use this new, streamlined 1023-EZ 
+process. Prohibited organizations include those that have or intend to have donor-advised funds, hold more than a small amount of non-publicly traded stock, sell 
+carbon credits or offsets, or that fall under several other preempted categories.  
+
+Nonprofit start-ups that are not already exempt should consider applying for 501(c)(3) status under this new streamlined procedure, including start-ups that have 
+already initiated the process using the existing procedure but may be eligible to transfer their application to this faster, less expensive process.  While this 
+new process is designed to reduce the cost and complexity of the tax-exemption process, nonprofits should consult with an attorney regarding this program and 
+its eligibility requirements.
+
+[Rev Proc link]: http://www.irs.gov/irb/2014-30_IRB/ar09.htm

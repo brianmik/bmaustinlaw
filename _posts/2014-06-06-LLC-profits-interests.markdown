@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Equity-Based Compensation: LLC and Partnership Profits Interests"
+title:  "Equity-Based Compensation: Are your LLC or Partnership Profits Interests Structured Correctly?"
 date:   2014-06-09 18:00:00
 categories: partnership tax
 ---
@@ -38,7 +38,7 @@ until they are "caught up" to their nominal participation percentage. Of course,
 profits interest is entitled to such "catch-up allocations." In my experience, however, entity agreements often provide for the opposite treatment 
 that the parties anticipated, particularly agreements that use "targeted allocation" provisions.  
 
-## Is the profits interest recipient an employee?  
+## Are the profits interest recipients employees?  
 
 Unfortunately, the tax rules do not permit dual roles as both a partner or LLC member and an employee for tax purposes. Therefore, a profits 
 interest recipient may lose their ability to participate in certain employee-benefit programs and must report self-employment taxes (rather than 
