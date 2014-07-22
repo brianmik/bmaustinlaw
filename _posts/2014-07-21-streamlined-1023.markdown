@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Can Your Nonprofit Start-Up Take Advantage of the New IRS Streamlined Application"
+title:  "Can Your Nonprofit Start-Up Take Advantage of the New IRS Streamlined Application?"
 date:   2014-07-21 18:00:00
 categories: nonprofits
 ---
@@ -41,4 +41,4 @@ already initiated the process using the existing procedure but may be eligible t
 new process is designed to reduce the cost and complexity of the tax-exemption process, nonprofits should consult with an attorney regarding this program and 
 its eligibility requirements.
 
-[Rev Proc link]: http://www.irs.gov/irb/2014-30_IRB/ar09.htm
+[Rev Proc link]: http://www.irs.gov/irb/2014-30_IRB/ar09.html
