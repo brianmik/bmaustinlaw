@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Should Workers' Cooperatives Be Using LLC Structures?"
+date:   2014-07-29 18:00:00
+categories: coops
+---
+
+Most states provide a specific statute for the formation of cooperative associations, one of many types of for-profit entities. In general, those state statutes 
+establish special rules that a "cooperative association" must follow, and in general, provide entities that form and comply with such statutes the sole benefit 
+of being able to use the term "cooperative" or any derivation thereof in the entity's name. As a result, there are certain situations where cooperative-type 
+entities may want to consider using another, more flexible business form: the LLC.  
+
+## Does the cooperative envision different types of members?  
+
+Often, state cooperative statutes envision one type of governing member. However, many cooperatives could benefit from establishing two or more types of members, 
+with differing economic rights and governing powers. For example, a retail operation may function as both a worker cooperative and a customer cooperative. In this 
+type of model, the worker-members may derive their ownership rights by reference to their seniority or the amount of hours they work, while a customer-member may 
+derive their ownership rights by reference to their patronage. While most state cooperative statutes require equal treatment of all members, LLC statutes universally 
+provide for the creation of differing "classes" of stakeholders.  
+
+
+## Will the cooperative issue equity financing?  
+
+In many cases, a cooperative may need outside financing in order to commence operations or make a critical expansion. Additionally, cooperatives often have less 
+access to traditional forms of bank financing, and may contemplate the issuance of equity financing that resembles preferred stock in the traditional corporation model. 
+However, state cooperative statutes may prohibit the issuance such investment interests or severly restrict the terms of such third-party investment. For example, Texas 
+law permits outside equity investment, but limits returns to such investors in a liquidation to the investment's par value. As a result, Texas cooperatives may have 
+difficulty raising equity capital from outside investors. However, an LLC is free to establish special "preferred" equity rights for investors and is under no such 
+obligation to limit redemption proceeds.  
+
+Cooperative associations should consider all available entity forms in consultation with a qualified business attorney. In many instances, the LLC form may provide 
+needed flexibility through create seperate member classes that could be critical to helping the coop realize its long-term goals.
