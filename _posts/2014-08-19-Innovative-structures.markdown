@@ -7,4 +7,4 @@ categories: social impact capital
 
 Please see post located on the [Blue Dot Advocates blog page][Blog post link]. 
 
-[Blog post link]: http://op.bna.com/der.nsf/id/klan-9p7t84/$File/Treasury%20Fact%20Sheet.pdf
+[Blog post link]: http://www.bluedotlaw.com/innovative-financial-structures/
