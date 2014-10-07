@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Will Non-US Subsidiary Payments Become Subject to Subpart F Tax in 2014?"
+title:  "Will Related CFC Intercompany Payments Become Subject to Subpart F Tax in 2014?"
 date:   2014-10-07 18:00:00
 categories: international tax
 ---
@@ -22,10 +22,10 @@ So, what can businesses do today if expanding into international markets? One op
 one taxable entity for US federal income tax purposes, thereby allowing the MNE to ignore intercomany payments for tax purposes. However, there are some restrictions to this 
 approach, which is not available for certain types of non-US entities classifed as "per se corporations" under IRS regulations. Additionally, any non-US entity that "checks 
 the box" must have its financial activities and operations reported to the US tax authorities as part of its parent's return. MNEs considering changes to their international 
-structure should seek competent tax counsel in light of the changing rules and uncertainty of existing law.
+structure should seek competent tax counsel in light of the changing rules and uncertainty of existing law.  
 
 CIRCULAR 230 DISCLAIMER: To ensure compliance with requirements imposed by the IRS, please be informed that any tax advice contained herein was not intended or written to be 
 used, and cannot be used, for the purposes of (i) avoiding any tax-related penalties under federal, state or local tax law or (ii) promoting, marketing, or recommending to 
-another party any transaction or matter addressed herein.
+another party any transaction or matter addressed herein.  
 
 [Letter link]: http://www.aicpa.org/press/pressreleases/2014/pages/aicpa-urges-immediate-congressional-action-on-tax-extenders.aspx
