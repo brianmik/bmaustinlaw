@@ -49,4 +49,8 @@ with all of their entity income reported on a form K-1. By contrast, the holder 
 on an "exit" event may be able to defer such a transition.  
 
 In conclusion, profits interests can provide a very effective method of incentivizing service providers, but need to be thoughtfully negotiated 
-and the entity's agreement needs to be carefully structured in order to ensure that the negotiated business deal is accurately reflected.
+and the entity's agreement needs to be carefully structured in order to ensure that the negotiated business deal is accurately reflected.  
+
+CIRCULAR 230 DISCLAIMER: To ensure compliance with requirements imposed by the IRS, please be informed that any tax advice contained herein was not intended or written to be 
+used, and cannot be used, for the purposes of (i) avoiding any tax-related penalties under federal, state or local tax law or (ii) promoting, marketing, or recommending to 
+another party any transaction or matter addressed herein.

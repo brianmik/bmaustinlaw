@@ -13,7 +13,10 @@ For these purposes, "medium-sized" employers are generally businesses that emplo
 employees are generally not required to provide healthcare insurance under the ACA.) These final reguations supercede previously released guidance 
 which had deferred the medium-size employer mandate until January 1, 2015. However, medium-size employers may remain subject to certain 
 reporting requirements that take effect next year. Affected employers should consider seeking legal guidance on these requirements under 
-the ACA, including the detailed rules for defining a "full-time" employee for these purposes.
+the ACA, including the detailed rules for defining a "full-time" employee for these purposes.  
 
+CIRCULAR 230 DISCLAIMER: To ensure compliance with requirements imposed by the IRS, please be informed that any tax advice contained herein was not intended or written to be 
+used, and cannot be used, for the purposes of (i) avoiding any tax-related penalties under federal, state or local tax law or (ii) promoting, marketing, or recommending to 
+another party any transaction or matter addressed herein.  
 
 [announcement]: http://www.treasury.gov/press-center/press-releases/Pages/jl2290.aspx

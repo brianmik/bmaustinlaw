@@ -22,5 +22,8 @@ December 9, 2013, once they are finalized. However, partnerships that have taken
 preceding that date should consider amending open returns, as the IRS likely views these rules as a clarification of existing law,
 rather than a change.  
 
+CIRCULAR 230 DISCLAIMER: To ensure compliance with requirements imposed by the IRS, please be informed that any tax advice contained herein was not intended or written to be 
+used, and cannot be used, for the purposes of (i) avoiding any tax-related penalties under federal, state or local tax law or (ii) promoting, marketing, or recommending to 
+another party any transaction or matter addressed herein.  
 
 [prop regs cite]: http://www.irs.gov/irb/2013-52_IRB/ar17.html

@@ -19,4 +19,8 @@ Taxpayers interested in this exemption should seek professional tax guidance, as
 resulting tax treatment can be very complex. Furthermore, the exemption applies only to real property "used in a trade or business," which could 
 exclude many types of investment property.  
 
+CIRCULAR 230 DISCLAIMER: To ensure compliance with requirements imposed by the IRS, please be informed that any tax advice contained herein was not intended or written to be 
+used, and cannot be used, for the purposes of (i) avoiding any tax-related penalties under federal, state or local tax law or (ii) promoting, marketing, or recommending to 
+another party any transaction or matter addressed herein.  
+
 [Prop Regs cite]: http://www.irs.gov/irb/2014-9_IRB/ar09.html

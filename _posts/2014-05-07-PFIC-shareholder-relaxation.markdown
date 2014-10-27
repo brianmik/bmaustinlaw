@@ -16,6 +16,10 @@ with IP as a high proportion of their assets.
 
 While this recent guidance does not carve back at the broad definition of a PFIC, it does provide some relief to certain individuals holding 
 an indirect interest in a potential PFIC through an IRA or other tax-exempt entity or account. In that sense, the proposed revisions to the 
-regulations are a welcome change to the PFIC rules.
+regulations are a welcome change to the PFIC rules.  
+
+CIRCULAR 230 DISCLAIMER: To ensure compliance with requirements imposed by the IRS, please be informed that any tax advice contained herein was not intended or written to be 
+used, and cannot be used, for the purposes of (i) avoiding any tax-related penalties under federal, state or local tax law or (ii) promoting, marketing, or recommending to 
+another party any transaction or matter addressed herein.  
 
 [Notice link]: http://www.irs.gov/irb/2014-18_IRB/ar06.html

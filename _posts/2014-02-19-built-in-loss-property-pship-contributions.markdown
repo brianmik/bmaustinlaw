@@ -18,8 +18,11 @@ partnerships in receipt of contributed built-in loss property.
 
 The preamble to the proposed regulations states that the IRS considered applying these new rules to "reverse" Section 704(c) allocations, but 
 declined to do so due to administrative complexity. The proposed regulations will be effective when they are published as final in the Federal 
-Register.
+Register.  
 
+CIRCULAR 230 DISCLAIMER: To ensure compliance with requirements imposed by the IRS, please be informed that any tax advice contained herein was not intended or written to be 
+used, and cannot be used, for the purposes of (i) avoiding any tax-related penalties under federal, state or local tax law or (ii) promoting, marketing, or recommending to 
+another party any transaction or matter addressed herein.  
 
 
 [prop regs cite]: http://www.irs.gov/irb/2014-6_IRB/ar07.html

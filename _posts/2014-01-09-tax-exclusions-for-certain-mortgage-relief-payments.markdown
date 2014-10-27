@@ -30,4 +30,8 @@ principal-residence unit, thereby avoiding taxable income in loss scenarios by i
 in most gain scenarios by increasing the gain excluded under Code Section 121.  
 
 The IRS provides additional guidance on the tax treatment of fund receipts in respect of depreciated personal residence property and fund
-receipts of a deceased borrower.
+receipts of a deceased borrower.  
+
+CIRCULAR 230 DISCLAIMER: To ensure compliance with requirements imposed by the IRS, please be informed that any tax advice contained herein was not intended or written to be 
+used, and cannot be used, for the purposes of (i) avoiding any tax-related penalties under federal, state or local tax law or (ii) promoting, marketing, or recommending to 
+another party any transaction or matter addressed herein.

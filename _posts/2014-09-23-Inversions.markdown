@@ -48,4 +48,8 @@ expatriations. However, many smaller US-owned businesses that conduct a large am
 operate across multiple non-US jurisdictions without paying hefty US taxes. While proper tax planning at initial formation is critical, these new rules further increase 
 the importance of such planning, as they make the initial business structure more permanent and "irreversible" notwithstanding change to the underlying business.  
 
+CIRCULAR 230 DISCLAIMER: To ensure compliance with requirements imposed by the IRS, please be informed that any tax advice contained herein was not intended or written to be 
+used, and cannot be used, for the purposes of (i) avoiding any tax-related penalties under federal, state or local tax law or (ii) promoting, marketing, or recommending to 
+another party any transaction or matter addressed herein.  
+
 [Announcement link]: http://op.bna.com/der.nsf/id/klan-9p7t84/$File/Treasury%20Fact%20Sheet.pdf

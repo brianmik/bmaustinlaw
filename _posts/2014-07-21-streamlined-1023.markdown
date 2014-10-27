@@ -39,6 +39,10 @@ carbon credits or offsets, or that fall under several other preempted categories
 Nonprofit start-ups that are not already exempt should consider applying for 501(c)(3) status under this new streamlined procedure, including start-ups that have 
 already initiated the process using the existing procedure but may be eligible to transfer their application to this faster, less expensive process.  While this 
 new process is designed to reduce the cost and complexity of the tax-exemption process, nonprofits should consult with an attorney regarding this program and 
-its eligibility requirements.
+its eligibility requirements.  
+
+CIRCULAR 230 DISCLAIMER: To ensure compliance with requirements imposed by the IRS, please be informed that any tax advice contained herein was not intended or written to be 
+used, and cannot be used, for the purposes of (i) avoiding any tax-related penalties under federal, state or local tax law or (ii) promoting, marketing, or recommending to 
+another party any transaction or matter addressed herein.  
 
 [Rev Proc link]: http://www.irs.gov/irb/2014-30_IRB/ar09.html
