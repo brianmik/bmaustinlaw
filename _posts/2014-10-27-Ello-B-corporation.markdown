@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "To Come"
+title:  "A New Public Benefit Corporation"
 date:   2014-10-27 18:00:00
 categories: benefit corporations
 ---
