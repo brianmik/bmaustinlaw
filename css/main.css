@@ -54,7 +54,8 @@ p {
 }
 
 .copyright {
-  vertical-align: bottom;
+  position: relative;
+  bottom: 0;
 }
 
 .list-inside {
