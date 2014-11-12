@@ -53,6 +53,10 @@ p {
   display: none;
 }
 
+.blog-posts li + li {
+  border-top: 2px solid #eee;
+}
+
 .copyright {
   position: relative;
   bottom: -4em;
