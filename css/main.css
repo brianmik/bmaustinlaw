@@ -55,7 +55,7 @@ p {
 
 .copyright {
   position: relative;
-  bottom: 0;
+  bottom: -4em;
 }
 
 .list-inside {
