@@ -55,7 +55,7 @@ p {
 
 .blog-posts li + li {
   border-top: 1px solid #eee;
-  margin-top: 1em;
+  margin-top: 3em;
 }
 
 .copyright {
