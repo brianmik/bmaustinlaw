@@ -12,6 +12,7 @@ title:  Blog
             <article>
               <header class="space-none">
                 <h1 class="post-title space-none"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+                <p>{ post.date | date_to_long_string }}</p>
               </header>
                 <p class="space-none">{{ post.excerpt }}</p>
             </article>
