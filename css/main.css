@@ -59,7 +59,7 @@ p {
 
 .blog-posts li + li {
   border-top: 1px solid #eee;
-  margin-top: 2em;
+  margin-top: 1em;
   padding: 1em;
 }
 
