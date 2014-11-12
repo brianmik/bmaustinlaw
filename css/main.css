@@ -53,6 +53,10 @@ p {
   display: none;
 }
 
+.blog-posts li:first-child {
+  padding: 1em;
+}
+
 .blog-posts li + li {
   border-top: 1px solid #eee;
   margin-top: 2em;
