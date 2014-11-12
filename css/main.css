@@ -54,7 +54,8 @@ p {
 }
 
 .blog-posts li + li {
-  border-top: 2px solid #eee;
+  border-top: 1px solid #eee;
+  margin-top: 1em;
 }
 
 .copyright {
