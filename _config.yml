@@ -22,7 +22,7 @@ footer: <div id="bottom">
             </div>
           </div>
         </div>
-paginate: 5
+paginate: 3
 paginate_path: "blog/page:num"
 markdown: redcarpet
 pygments: true
