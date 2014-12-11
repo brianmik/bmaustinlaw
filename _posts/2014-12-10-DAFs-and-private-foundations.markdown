@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Should philanthropists stop giving to donor-advised funds (and start their own private foundation)?"
-date:   2014-12-11 18:00:00
+date:   2014-12-10 18:00:00
 categories: nonprofits
 ---
 
