@@ -9,9 +9,9 @@ categories: nonprofits
 
 A recent [article in the New York Times][NYT link] succinctly captures the spirit of a growing body of opinion that donor-advised funds (DAFs) are oversold as 
 vehicles for charitable giving. As the argument goes: too much money is growing within DAFs and is not being efficiently deployed toward the social and charitable 
-goals for which it was intended. (In some situations, [donors have claimed][Other link] that DAF assets were used inconsistently with the donor’s wishes.)  
+goals for which it was intended. (In some situations, [donors have claimed][Other link] that DAF assets were used inconsistently with the donor's wishes.)  
 
-In a nutshell, DAFs offer a “Goldilocks” vehicle for charitable giving: a mechanism for gifts large enough to substantiate donor use restrictions, but not so large 
+In a nutshell, DAFs offer a "Goldilocks" vehicle for charitable giving: a mechanism for gifts large enough to substantiate donor use restrictions, but not so large 
 as to warrant the creation of a private foundation. Like a private foundation, however, DAFs allow donors to obtain a tax deduction immediately upon the decision 
 to make the gift, even if the precise charitable recipient has not yet been identified or fully vetted.  
 
