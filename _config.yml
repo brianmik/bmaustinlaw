@@ -3,7 +3,7 @@ header: <div id="top">
           <div class="row">
             <div class="large-12 columns">
               <header itemscope itemtype="http://schema.org/Organization">
-                <h1 class="site-name"><a class="title-link" href="/index.html"><span itemprop="name">Brian Mikulencak</span><br /><span itemprop="name">Business Transactions and Tax Attorney</span></a></h1>
+                <h1 class="site-name"><a class="title-link" href="/index.html"><span class="name" itemprop="name">Brian Mikulencak</span><span itemprop="name">Business Transactions and Tax Attorney</span></a></h1>
                 <p class="tagline" itemprop="description">Counseling for start-ups, growth companies, and entrepreneurs</p>
               </header>
             </div>
@@ -17,7 +17,7 @@ footer: <div id="bottom">
                   <span class="uc-badge"></span>
                   <script type="text/javascript" src="https://usercdn.upcounsel.com/52741ee4ce77a705684ec99d/badge/badge.js"></script>
                 </p>
-                <p class="copyright right">&copy; 2014 Brian Mikulencak, Austin, TX, All rights reserved.</p>
+                <p class="copyright right">&copy; 2015 Brian Mikulencak, Austin, TX, All rights reserved.</p>
               </footer>
             </div>
           </div>

@@ -28,6 +28,9 @@ p {
   font-size: 1.1em;
 }
 
+a {
+  letter-spacing: .085rem;
+}
 
 /* - LAYOUT - */
 #bottom {
@@ -65,8 +68,9 @@ p {
 }
 
 .copyright {
+  font-size: .85rem;
   position: relative;
-  bottom: -4em;
+  bottom: -8em;
 }
 
 .list-inside {
@@ -106,17 +110,40 @@ p {
 }
 
 .philosophy, .experience {
-  font-size: 2.3125em;
+  font-size: 1.6875rem;
 }
 
-.post-title, .practice, .publication, .thanks {
+.post-title, .practice, .publication__title, .thanks {
   font-size: 1.6875em;
+}
+
+.publication {
+  border-bottom: 1px solid #eee;
+  margin-bottom: 1.25rem;
+}
+
+.publication__title {
+  width: 65ex;
+}
+
+.publication__excerpt {
+  margin: 0 0 0 1rem;
+  width: 75ex;
+}
+
+.publication__link {
+  margin-left: 1rem;
 }
 
 .site-name {
   color: #333;
   font-family: Georgia, Serif;
-  margin-bottom: 0;
+  font-weight: 500;
+}
+
+.name {
+  display: block;
+  margin-bottom: -.65rem;
 }
 
 .small{
@@ -152,8 +179,12 @@ p {
   font-size: 1.25em;
 }
 
-a.uppercase {
-  letter-spacing: .1rem;
+.capitalize {
+  text-transform: capitalize;
+}
+
+.lowercase {
+  text-transform: lowercase;
 }
 
 .uppercase {
