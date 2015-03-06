@@ -67,6 +67,16 @@ a {
   padding: 1em;
 }
 
+.post__date {
+  color:  hsla(0, 0%, 20%, 1);
+  font-size: .85rem;
+  font-weight: bold;
+  letter-spacing: .085rem;
+  padding: .25rem 0;
+  margin-bottom: .25rem;
+
+}
+
 .copyright {
   font-size: .85rem;
   position: relative;
@@ -117,17 +127,52 @@ a {
   font-size: 1.6875em;
 }
 
+.post__excerpt > a {
+  letter-spacing: initial;
+}
+
+.post__excerpt > br {
+  display: block;
+  line-height: 3rem;
+}
+
+.post__excerpt__read-more {
+  background: hsla(0, 0%, 20%, 1);
+  border-radius: .25rem;
+  margin: 1rem 0;
+  padding: .5rem;
+  text-align: center;
+  width: 10rem;
+}
+
+.post__excerpt__read-more:hover {
+  background: hsla(0, 0%, 0%, 1);
+}
+
+.post__excerpt__read-more > a:hover {
+  color: #008CBA;
+}
+
+.post__content > p {
+  width: 75ex;
+}
+
+.blog__pagination {
+  text-align: center;
+  padding: 2rem;
+}
+
 .publication {
   border-bottom: 1px solid #eee;
   padding-bottom: 1rem;
   margin-bottom: 1.25rem;
 }
 
-.publication__title {
-  width: 65ex;
+.publication__title, .post-title {
+  width: 55ex;
 }
 
-.publication__excerpt {
+.publication__excerpt, .post__excerpt {
   margin: 0 0 0 1rem;
   width: 75ex;
 }

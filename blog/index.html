@@ -11,11 +11,15 @@ title:  Blog
           <li>
             <article>
               <header class="space-none">
-                <p class="is-italic space-none">{{ post.date | date: '%B %d, %Y' }}</p>
-                <h1 class="post-title space-none"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+                <p class="post__date uppercase">{{ post.date | date: '%B %d, %Y' }}</p>
+                <h1 class="post-title space-none">{{ post.title }}</h1>
               </header>
-                <p class="space-none">{{ post.excerpt }}</p>
-                <p><a href="{{ post.url }}">Read more &hellip;</a></p>
+                <p class="post__excerpt space-none">
+                  {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+                </p>
+                <p class="post__excerpt__read-more">
+                  <a class="capitalize" href="{{ post.url }}">Read more &hellip;</a>
+                </p>
             </article>
           </li>
           {% endfor %}
@@ -23,18 +27,20 @@ title:  Blog
     </div>
   </div>
   <div class="row">
-    <div class="small-10 large-6 small-centered large-centered columns pagination">
-      {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="previous"><i class="fi-rewind"></i> Previous</a>
-      {% else %}
-        <span class="previous hide"><i class="fi-rewind"></i> Previous</span>
-      {% endif %}
-      <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-      {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next">Next <i class="fi-fast-forward"></i></a>
-      {% else %}
-        <span class="next hide">Next <i class="fi-fast-forward"></i></span>
-      {% endif %}
+    <div class="large-12 columns">
+      <div class="blog__pagination">
+        {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path }}" class="previous"><i class="fi-rewind"></i> Previous</a>
+        {% else %}
+          <span class="previous hide"><i class="fi-rewind"></i> Previous</span>
+        {% endif %}
+        <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+        {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path }}" class="next">Next <i class="fi-fast-forward"></i></a>
+        {% else %}
+          <span class="next hide">Next <i class="fi-fast-forward"></i></span>
+        {% endif %}
+      </div>
     </div>
   </div>
 </div>

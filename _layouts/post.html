@@ -11,7 +11,9 @@ layout: template-blog
         <h1 class="post-title space-none">{{ page.title }}</h1>
       </header>
       <p class="meta">{{ page.date | date: "%A, %B %d, %Y"}}</p>
+      <div class="post__content">
         {{ content }}
+      </div>
     </article>
     </div>
   </div>
