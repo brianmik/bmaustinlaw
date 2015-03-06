@@ -208,6 +208,12 @@ a {
   line-height: 1.2125em;
 }
 
+/* FORMS */
+
+.contact-form {
+  margin-bottom: 2rem;
+}
+
 /*  COLORS  */
 .bg-dark {
   background-color: rgba(51, 51, 51, 0.1)
@@ -246,6 +252,17 @@ a {
   font-size: .75em;
 }
 
+/* ICONS */
+
+.icon--phone {
+  background: hsla(360, 100%, 100%, 1);
+  border-radius: 2rem;
+  display: inline-block;
+  height: 2.5rem;
+  padding: .25rem;
+  width: 2.5rem;
+}
+
 /*  SPACING   */
 .space-none {
   margin: 0;
@@ -263,10 +280,14 @@ textarea {
 }
 
 .vcard {
+  background: hsla(0, 0%, 90%, 1);
   border: none;
-  font-size: 1.25em;
-  text-align: right;
+  text-align: center;
   width: 100%;
+}
+
+.vcard .fn, .vcard .tel, .vcard .locality {
+  font-size: 1.25rem;
 }
 
 

@@ -6,52 +6,67 @@ title:  Contact Me
 <div id="middle">
 	<div class="row">
 		<div class="large-12 columns">
-			<div class="row">
 
-        <div class="large-8 columns">
-    			<div class="panel">
-    				<form class="custom" action="http://getsimpleform.com/messages?form_api_token=0aa27d5462d8f5c13f3014ed3a6d1c2b" method="post">
-      				<!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-      				<input type='hidden' name='redirect_to' value='http://bmaustinlaw.com/thank-you.html' />
-      				<!-- all your input fields here.... -->
-              <label>First Name: <small class="red">required</small></label>
-      				<input name='firstname' type='text' placeholder='Jane' required/>
-              <label>Last Name: <small class="red">required</small></label>
-      				<input name='lastname' type='text' placeholder='Doe' required/>
-              <label>Company Name: <small class="red">required</small></label>
-      				<input name='companyname' type='text' placeholder='Google' />
-              <label>E-mail: <small class="red">required</small></label>
-      				<input type="email" name="email" placeholder='jdoe@example.com' required/>
-              <label>Telephone: <small class="red">required</small></label>
-      				<input type="tel" name="usrtel" placeholder='737-555-5555' required>
+      <section>
+  			<div class="row">
+          <div class="large-8 columns">
+            <form class="contact-form custom" action="http://getsimpleform.com/messages?form_api_token=0aa27d5462d8f5c13f3014ed3a6d1c2b" method="post">
+              <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+              <input type='hidden' name='redirect_to' value='http://bmaustinlaw.com/thank-you.html' >
+              <div class="row">
+                <div class="small-12 large-6 columns">
+                  <!-- all your input fields here.... -->
+                  <label>First Name: <small class="red">required</small></label>
+                  <input name='firstname' type='text' placeholder='Jane' required/>
+                </div>
+                <div class="small-12 large-6 columns">
+                  <label>Last Name: <small class="red">required</small></label>
+                  <input name='lastname' type='text' placeholder='Doe' required/>
+                </div>
+              </div>
+
+
+                <label>Company Name: <small class="red">required</small></label>
+                <input name='companyname' type='text' placeholder='Google' />
+
+
+              <div class="row">
+                <div class="small-12 large-6 columns">
+                  <label>E-mail: <small class="red">required</small></label>
+                  <input type="email" name="email" placeholder='jdoe@example.com' required/>
+                </div>
+                <div class="small-12 large-6 columns">
+                  <label>Telephone: <small class="red">required</small></label>
+                  <input type="tel" name="usrtel" placeholder='737-555-5555' required>
+                </div>
+              </div>
+
               <label>Message: <small class="red">required</small></label>
-      				<textarea name="message" rows="10" placeholder='Brief description of project or legal matter.' required></textarea>
+              <textarea name="message" rows="10" placeholder='Brief description of project or legal matter.' required></textarea>
               <label for="agreed">
-                <input type="checkbox" id="agreed" style="display: none;" required>
-                <span class="custom checkbox"></span> <span class="contact-us__agreement">None of the information I am providing is private or confidential, and I understand that no attorney-client relationship is formed by sending this message.</span> <small class="red">required</small>
+              <span class="contact-us__agreement">None of the information I am providing is private or confidential, and I understand that no attorney-client relationship is formed by sending this message.</span>  <input type="checkbox" id="agreed" required> <small class="red">required</small>
               </label>
+
               <!-- Using class options -->
-      				<p class="space-top">Flip the switch to prove you're human.</p>
-    					<div class="switch large radius">
-      					<input id="z" name="life-form" type="radio" value="Robot" checked>
-      					<label for="z" onclick="">&nbsp;&nbsp;Robot</label>
-      					<input id="z1" name="life-form" type="radio" value="Human">
-      					<label for="z1" onclick="">Human&nbsp;&nbsp;</label>
-      					<span></span>
-    					</div>
-      				<input id="sender" class="button round hide" type='submit' value='SEND MESSAGE' />
-    				</form>
+              <p class="space-top">Flip the switch to prove you're human.</p>
+                <div class="switch round large">
+                  <input id="humanSwitch" type="checkbox">
+                  <label for="humanSwitch"></label>
+                </div>
+              <input id="sender" class="button radius space-top hide" type='submit' value='SEND MESSAGE' />
+            </form>
     			</div>
-  		  </div>
-        <div class="large-4 columns">
+
+          <div class="large-4 columns">
             <ul class="vcard">
-              <li class="fn"><i class="fi-telephone size-72 red"></i> Brian Mikulencak</li>
-              <li class="tel">512-466-2782</li>
+              <li class="fn"><i class="icon--phone fi-telephone size-72 red"></i> Brian Mikulencak</li>
+              <li class="tel">(512) 466-2782</li>
               <li class="locality"><span class="city">Austin</span>, <span class="state">TX</span></li>
             </ul>
+          </div>
         </div>
       </section>
-      </div>
+
     </div>
   </div>
 </div>
