@@ -427,6 +427,7 @@ textarea {
     border-bottom: 2px dotted hsla(0, 0%, 80%, 1);
     padding-bottom: 3rem;
     margin: 1.25rem 0 1.25rem 0;
+    width: 85%;
   }
 
   .publication__title, .publication__excerpt {
