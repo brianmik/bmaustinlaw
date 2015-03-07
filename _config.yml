@@ -3,7 +3,14 @@ header: <div id="top">
           <div class="row">
             <div class="large-12 columns">
               <header itemscope itemtype="http://schema.org/Organization">
-                <h1 class="site-name"><a class="title-link" href="/index.html"><span class="name" itemprop="name">Brian Mikulencak</span><span itemprop="name">Business Transactions and Tax Attorney</span></a></h1>
+                <h1 class="site-name">
+                  <a class="title-link" href="/index.html">
+                    <span class="name" itemprop="name">Brian Mikulencak</span>
+                    <span itemprop="name">
+                      Business Transactions <span class="line-break">and Tax Attorney</span>
+                    </span>
+                  </a>
+                </h1>
                 <p class="tagline" itemprop="description">Counseling for start-ups, growth companies, and entrepreneurs</p>
               </header>
             </div>

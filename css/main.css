@@ -335,38 +335,72 @@ textarea {
 
 /* - MEDIA QUERIES - */
 
-/* We use this media query to add styles to any device that supports media queries */
-@media only screen { }
 
-/* Used to alter styles for screens at most 768px wide. This is where the grid changes. */
-@media all and (max-width: 480px) {}
+// Small screens
+@media only screen { } /* Define mobile styles */
 
-/* Used to alter styles for screens at least 768px wide. This is where the grid changes. */
-@media only screen and (min-width: 768px) {}
+@media only screen and (max-width: 40em) {
 
-/* Used to alter styles for screens at most 768px wide. This is where the grid changes. */
-@media only screen and (max-width: 768px) {
-  nav {
-    float: none;
+  p {
+    font-size: 1rem;
   }
 
-  .nav-global {
-    margin-top: 5%;
+  .site-name {
+    font-size: 1.65rem;
+  }
+
+  .tagline {
+    font-size: 1.2rem;
   }
 
   .nav-item {
+    font-size: .85rem;
+    margin: 1rem .25rem 0 0;
+    padding: .25rem;
+  }
+
+  .philosophy, .experience {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+
+  .line-break {
     display: block;
   }
-}
 
-/* Used to alter styles for screens at least 1280px wide. */
-@media only screen and (min-width: 1280px) {}
+  #bottom {
+    padding: 0;
+  }
 
-/* Used to alter styles for screens at least 1440px wide. */
-@media only screen and (min-width: 1440px) {}
+  .copyright {
+    bottom: -3rem;
+  }
 
-/* Apply styles to screens in landscape orientation */
-@media only screen and (orientation: landscape) {}
+  .left {
+    float: none !important;
+    margin: 0 25%;
+  }
 
-/* Apply styles to screens in portrait orientation */
-@media only screen and (orientation: portrait) {}
+  .right {
+    float:  none !important;
+  }
+
+} /* max-width 640px, mobile-only styles, use when QAing mobile issues */
+
+// Medium screens
+@media only screen and (min-width: 40.063em) { } /* min-width 641px, medium screens */
+
+@media only screen and (min-width: 40.063em) and (max-width: 64em) { } /* min-width 641px and max-width 1024px, use when QAing tablet-only issues */
+
+// Large screens
+@media only screen and (min-width: 64.063em) { } /* min-width 1025px, large screens */
+
+@media only screen and (min-width: 64.063em) and (max-width: 90em) { } /* min-width 1025px and max-width 1440px, use when QAing large screen-only issues */
+
+// XLarge screens
+@media only screen and (min-width: 90.063em) { } /* min-width 1441px, xlarge screens */
+
+@media only screen and (min-width: 90.063em) and (max-width: 120em) { } /* min-width 1441px and max-width 1920px, use when QAing xlarge screen-only issues */
+
+// XXLarge screens
+@media only screen and (min-width: 120.063em) { } /* min-width 1921px, xxlarge screens */
