@@ -355,6 +355,7 @@ textarea {
 
   .tagline {
     font-size: 1rem;
+    line-height: 1.5;
   }
 
   .nav-item {
