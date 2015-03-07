@@ -401,9 +401,6 @@ textarea {
     font-size: 1.45rem;
   }
 
-  .line-break {
-    display: block;
-  }
 
 } /* min-width 641px and max-width 1024px, use when QAing tablet-only issues */
 
