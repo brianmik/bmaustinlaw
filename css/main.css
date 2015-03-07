@@ -375,7 +375,7 @@ textarea {
     margin: 1.25rem 0 1.25rem 0;
   }
 
-  .publication__title, .publication__excerpt {
+  .publication__title, .publication__excerpt, .post__title, .post__excerpt {
     margin: 0;
     width: 100%;
   }
@@ -427,12 +427,12 @@ textarea {
     border-bottom: 2px dotted hsla(0, 0%, 80%, 1);
     padding-bottom: 3rem;
     margin: 1.25rem 0 1.25rem 0;
-    width: 85%;
+    width: 80%;
   }
 
-  .publication__title, .publication__excerpt {
+  .publication__title, .publication__excerpt, .post__title, .post__excerpt {
     margin: 0;
-    width: 85%;
+    width: 80%;
   }
 
 
