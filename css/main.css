@@ -364,6 +364,10 @@ textarea {
     font-weight: bold;
   }
 
+  .practice__area__items {
+    margin: 1.25rem 0 0 3rem;
+  }
+
   .line-break {
     display: block;
   }
