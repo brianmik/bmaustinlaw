@@ -83,11 +83,6 @@ a {
   bottom: -8em;
 }
 
-.list-inside {
-  list-style-position: outside;
-  margin-left: 3%;
-}
-
 .list-none {
   list-style: none;
 }
@@ -113,6 +108,25 @@ a {
 .nav-item:hover {
   border-bottom: 4px solid red;
 }
+
+.practice__area__description {
+  font-size: .95rem;
+}
+
+.practice__area__items {
+  list-style: none;
+  margin-left: 0;
+}
+
+.practice__area__item {
+  padding: .75rem;
+  margin: 0;
+}
+
+.practice__area__item:nth-child(odd) {
+  background: hsla(0, 0%, 87%, 1);
+}
+
 
 .page_number {
   display: inline-block;
