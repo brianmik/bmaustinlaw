@@ -364,7 +364,7 @@ textarea {
     padding: .25rem;
   }
 
-  .blog-posts, .blog-post {
+  .blog-posts li + li, .blog-posts, .blog-post {
     margin: 0;
   }
 
