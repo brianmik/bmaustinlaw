@@ -374,11 +374,12 @@ textarea {
 
   .copyright {
     bottom: -3rem;
+    font-size: .7rem;
   }
 
   .left {
     float: none !important;
-    margin: 0 25%;
+    margin: 0 20%;
   }
 
   .right {
