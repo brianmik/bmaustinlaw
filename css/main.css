@@ -365,6 +365,7 @@ textarea {
   }
 
   .practice__area__items {
+    border-bottom: 2px dotted hsla(0, 0%, 80%, 1);
     margin: 1.25rem 0 4.25rem 0;
   }
 
