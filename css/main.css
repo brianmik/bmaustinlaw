@@ -393,6 +393,10 @@ textarea {
 
 @media only screen and (min-width: 40.063em) and (max-width: 64em) {
 
+  .tagline {
+    font-size: 1.2rem;
+  }
+
   .line-break {
     display: block;
   }
