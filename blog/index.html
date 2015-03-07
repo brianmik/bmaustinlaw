@@ -8,7 +8,7 @@ title:  Blog
     <div class="large-12 columns">
         <ul class="blog-posts list-none">
           {% for post in paginator.posts %}
-          <li>
+          <li class="blog-post">
             <article>
               <header class="space-none">
                 <p class="post__date uppercase">{{ post.date | date: '%B %d, %Y' }}</p>

@@ -364,6 +364,10 @@ textarea {
     padding: .25rem;
   }
 
+  .blog-post {
+    margin: 0;
+  }
+
   .philosophy, .experience, .practice, .publication__title, .post-title {
     font-size: 1.1rem;
     font-weight: bold;
