@@ -380,7 +380,7 @@ textarea {
     margin: 1.25rem 0 1.25rem 0;
   }
 
-  .publication__title, .publication__excerpt, .post-title, .post__excerpt {
+  .publication__title, .publication__excerpt, .post-title, .post__excerpt, .post__content {
     margin: 0;
     width: 100%;
   }
