@@ -366,6 +366,7 @@ textarea {
 
   .blog-posts li + li, .blog-posts, .blog-post {
     margin: 0;
+    padding: 0;
   }
 
   .philosophy, .experience, .practice, .publication__title, .post-title {
