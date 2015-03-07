@@ -345,6 +345,10 @@ textarea {
     font-size: 1rem;
   }
 
+  ul {
+    margin-left: 0;
+  }
+
   .site-name {
     font-size: 1.65rem;
   }
@@ -398,6 +402,10 @@ textarea {
 @media only screen and (min-width: 40.063em) { } /* min-width 641px, medium screens */
 
 @media only screen and (min-width: 40.063em) and (max-width: 64em) {
+
+  ul {
+    margin-left: 0;
+  }
 
   .nav-item {
     font-size: .9rem;
