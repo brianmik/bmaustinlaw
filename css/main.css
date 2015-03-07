@@ -369,7 +369,7 @@ textarea {
     padding: 0;
   }
 
-  .philosophy, .experience, .practice, .publication__title, .post-title {
+  .philosophy, .experience, .practice, .publication__title, .post-title, .thanks {
     font-size: 1.1rem;
     font-weight: bold;
   }
