@@ -430,7 +430,7 @@ textarea {
     width: 80%;
   }
 
-  .publication__title, .publication__excerpt, .post__title, .post__excerpt {
+  .publication__title, .publication__excerpt, .post-title, .post__excerpt {
     margin: 0;
     width: 80%;
   }
