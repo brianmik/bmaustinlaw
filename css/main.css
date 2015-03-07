@@ -376,6 +376,7 @@ textarea {
   }
 
   .publication__title, .publication__excerpt {
+    margin: 0;
     width: 100%;
   }
 
