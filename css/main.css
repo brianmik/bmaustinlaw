@@ -365,7 +365,7 @@ textarea {
   }
 
   .practice__area__items {
-    margin: 1.25rem 0 0 3rem;
+    margin: 1.25rem 0 3rem 0;
   }
 
   .line-break {
