@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A 1-Year Update on the Streamlined 501(c)(3) Application Process"
+title:  "A Year Update on the Streamlined 501 Application Process"
 date:   2015-07-14 9:00:00
 categories: nonprofits
 ---
