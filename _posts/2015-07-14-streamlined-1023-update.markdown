@@ -11,7 +11,7 @@ The IRS released its streamlined Form 1023-EZ process about a year ago, in an ef
 501(c)(3) status. Most charity professionals lauded the move initially, but it's worth revisiting a couple aspects of the streamlined process after a full year 
 in effect.
 
-## Is the streamlined process good policy?  
+## Is the streamlined process good policy?    
 
 Many people in the philanthropic world question whether the streamlined application properly balances ease of process with effective administration. As an 
 administrative agency, the IRS is charged with policing tax-exempt organizations and ensuring that tax-exempt dollars are put to proper use. As [some have 
@@ -23,7 +23,7 @@ The first question is open; we'll have to wait for more data to determine whethe
 the second question, the IRS has stated that they intend to "check-in" on streamlined applicants 3 years after filing. Presumably we'll know more about IRS enforcement 
 efforts in 2017 (when the first streamline applicants reach their 3-year mark).  
 
-## Are there any disadvantages to using the streamlined application?   
+## Are there any disadvantages to using the streamlined application?     
 
 Aside from a possible IRS check-in at year 3, we know very little about any increased scrutiny that streamline applicants will receive. It is very possible that donors 
 will direct their dollars toward 501(c)(3) organizations that have disclosed much more information about their activities on the full Form 1023. However, one reporting 
