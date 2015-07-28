@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Proposed Regulation Defuse One 83(b) Election "Landmine""
+title:  "Proposed Regulation Defuse One 83(b) Election &ldquo;Landmine&rdquo;"
 date:   2015-07-28 18:00:00
 categories: start-ups
 ---
