@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Proposed Regulation Defuse One 83(b) Election &ldquo;Landmine&rdquo;"
+title:  "Proposed Regulation Defuses One 83(b) Election &ldquo;Landmine&rdquo;"
 date:   2015-07-28 18:00:00
 categories: start-ups
 ---
 
-The IRS published [proposed regulations][FR link] that remove the requirement that taxpayers file a copy of their 83(b) elections with their tax returns. As explanation, 
-the IRS pointed to its goal of encouraging more taxpayers to use e-filing, which is often not possible for taxpayers attempting to include their 83(b) election copy with 
-their e-filed federal income tax return. The IRS has proposed that this change be effective for transfers occurring on or after January 1, 2016, but has also stated that 
-taxpayers may rely on this guidance for transfers occurring on or after January 1, 2015.  
+The IRS published [a proposed regulation change][FR link] that removes the requirement that taxpayers file a copy of their 83(b) elections with their tax returns. As 
+explanation, the IRS pointed to its goal of encouraging more taxpayers to use e-filing, which is often not possible for taxpayers attempting to include their 83(b) 
+election copy with their e-filed federal income tax return. The IRS has proposed that this change be effective for transfers occurring on or after January 1, 2016, but has 
+also stated that taxpayers may rely on this guidance for transfers occurring on or after January 1, 2015.  
 
 To date, taxpayers have suffered much uncertainty related to the requirement of filing a copy of their 83(b) election with their return, including:  
 
