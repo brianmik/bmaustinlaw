@@ -20,14 +20,13 @@ footer: <div id="bottom">
           <div class="row">
             <div class="large-12 columns">
               <footer>
-                <p class="left">&copy; 2015 Brian Mikulencak, Austin, TX, All rights reserved.</p>
+                <p class="left">&copy; 2016 Brian Mikulencak, Austin, TX, All rights reserved.</p>
               </footer>
             </div>
           </div>
         </div>
 paginate: 5
 paginate_path: "blog/page:num"
-markdown: redcarpet
 highlighter: pygments
 gems: [jekyll-paginate]
 
