@@ -20,11 +20,7 @@ footer: <div id="bottom">
           <div class="row">
             <div class="large-12 columns">
               <footer>
-                <p class="left">
-                  <span class="uc-badge"></span>
-                  <script type="text/javascript" src="https://usercdn.upcounsel.com/52741ee4ce77a705684ec99d/badge/badge.js"></script>
-                </p>
-                <p class="copyright right">&copy; 2015 Brian Mikulencak, Austin, TX, All rights reserved.</p>
+                <p class="left">&copy; 2015 Brian Mikulencak, Austin, TX, All rights reserved.</p>
               </footer>
             </div>
           </div>

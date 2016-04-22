@@ -17,7 +17,7 @@ interest recipients are most likely to misconstrue these elements:
 In general, profits interests share in the post-issuance growth of the enterprise. This means that a profits interest could participate 
 almost immediately in distributions of LLC income earned after the issuance. At the other extreme, profits interests may not participate until 
 the business undertakes an IPO, becomes a target in an acquisition, or experiences some other "exit" event. Other alternatives exist as well, such 
-as deferring profits interest participation under other members have received a return of their capital contributions (and perhaps also a 
+as deferring profits interest participation until other members have received a return of their capital contributions (and perhaps also a 
 preferred return). In any event, the timing of the profits interest participation should be explicitly addressed in the entity's operating 
 agreement.  
 
