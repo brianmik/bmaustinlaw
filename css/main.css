@@ -240,6 +240,15 @@ a {
   color: red;
 }
 
+.link--white {
+  color:  hsla(300,100%,100%,.9);
+  text-decoration: underline;
+}
+
+.link--white:hover {
+  color:  hsla(300,100%,100%,1);
+}
+
 /*  TYPOGRAPHY  */
 .is-italic {
   font-style: italic;
